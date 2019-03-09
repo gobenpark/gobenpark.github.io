@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bumwoopark.github.io/remembrance/line/</loc>
+    <lastmod>2019-03-09T14:45:31+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bumwoopark.github.io/about/about/</loc>
     <lastmod>2019-03-08T17:13:46+09:00</lastmod>
   </url>
@@ -15,12 +20,18 @@
   
   <url>
     <loc>https://bumwoopark.github.io/</loc>
-    <lastmod>2019-03-08T17:13:46+09:00</lastmod>
+    <lastmod>2019-03-09T14:45:31+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bumwoopark.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bumwoopark.github.io/remembrance/</loc>
+    <lastmod>2019-03-09T14:45:31+09:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ben Park</title>
-    <link>https://bumwoopark.github.io/</link>
-    <description>Recent content on Ben Park</description>
+    <title>Remembrances on Ben Park</title>
+    <link>https://bumwoopark.github.io/remembrance/</link>
+    <description>Recent content in Remembrances on Ben Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Sat, 09 Mar 2019 14:45:31 +0900</lastBuildDate>
     
-	<atom:link href="https://bumwoopark.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bumwoopark.github.io/remembrance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>라인 면접 후기 최근 라인 면접을 진행하였다. 일단 한마디로 말하자면 신선한 충격이고 탈락이다. 현재 다니는 회사는 연령대가 20대가 대부분이다. 그래서 나보다 많은 경력자와 얘기 및 토론을 할 기회가 많이,거의 없다.
 면접일자가 잡히고 다니는 회사에 반차를 내고 라인으로 향했다. 안내데스크부터 확실히 세련된 느낌을 확 받았고 바로 옆에 커피숍이 있는 인터뷰어 웨이팅룸에 대기를 하고 조금 기다렸다가 면접장으로 향했다.
 큰회사에 면접을 본경험이 거의 없기에 긴장을 많이 했다. 면접장에는 3분의 면접관이 계셨고 자리에 앉았다.</description>
-    </item>
-    
-    <item>
-      <title>Bumwoo Park</title>
-      <link>https://bumwoopark.github.io/about/about/</link>
-      <pubDate>Fri, 08 Mar 2019 17:13:46 +0900</pubDate>
-      
-      <guid>https://bumwoopark.github.io/about/about/</guid>
-      <description>Park Bum Woo GitHub  https://github.com/BumwooPark  Email  bw.park0813@gmail.com  Website  BumwooPark.github.io  Phone  +82 10-5141-6906  Summary Skills  Languages  Swift Python Shell Golang  Mobile Development  ios  Frameworks  Echo(Golang) Kubernetes Docker Swarm Nginx Redis Tensorflow  Databases  Mariadb   Education  2010 - 2016 Soonchunhyang University, Department of Software Engineering  Career 2017.02 ~ - XIILAB: Software Engineer</description>
     </item>
     
   </channel>
