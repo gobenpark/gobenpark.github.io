@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gobenpark.github.io/</loc>
-    <lastmod>2019-05-27T17:21:17+09:00</lastmod>
+    <lastmod>2024-05-23T17:10:06+09:00</lastmod>
+  </url><url>
+    <loc>https://gobenpark.github.io/blog/</loc>
+    <lastmod>2024-05-23T17:10:06+09:00</lastmod>
+  </url><url>
+    <loc>https://gobenpark.github.io/blog/secret/</loc>
+    <lastmod>2024-05-23T17:10:06+09:00</lastmod>
   </url><url>
     <loc>https://gobenpark.github.io/golang/</loc>
     <lastmod>2019-05-27T17:21:17+09:00</lastmod>
@@ -28,12 +34,6 @@
   </url><url>
     <loc>https://gobenpark.github.io/about/about/</loc>
     <lastmod>2019-03-08T17:13:46+09:00</lastmod>
-  </url><url>
-    <loc>https://gobenpark.github.io/blog/</loc>
-    <lastmod>2019-03-08T17:13:21+09:00</lastmod>
-  </url><url>
-    <loc>https://gobenpark.github.io/blog/help/</loc>
-    <lastmod>2019-03-08T17:13:21+09:00</lastmod>
   </url><url>
     <loc>https://gobenpark.github.io/categories/</loc>
   </url><url>

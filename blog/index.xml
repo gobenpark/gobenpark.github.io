@@ -7,14 +7,18 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <copyright>Copyright © 2018–2024, BumwooPark; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Mar 2019 17:13:21 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 17:10:06 +0900</lastBuildDate>
     <atom:link href="https://gobenpark.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Help</title>
-      <link>https://gobenpark.github.io/blog/help/</link>
-      <pubDate>Fri, 08 Mar 2019 17:13:21 +0900</pubDate>
-      <guid>https://gobenpark.github.io/blog/help/</guid>
-      <description></description>
+      <title>external secret 설치후기</title>
+      <link>https://gobenpark.github.io/blog/secret/</link>
+      <pubDate>Thu, 23 May 2024 17:10:06 +0900</pubDate>
+      <guid>https://gobenpark.github.io/blog/secret/</guid>
+      <description>회사의 특정 GCP 프로젝트가 삭제되고 staging 환경에서 새로 argocd rollouts,linkerd, external secret operator등을 설치를 하려고한다.
+개발환경에서 환경구축을 할 때 손수 매뉴얼하게 진행을 했었는데 이번에는 openTofu를 사용해서 진행을 해보았다
+helm을 이용해서 external-secret operator를 설치
+helm install external-secrets \ external-secrets/external-secrets \ -n external-secrets \ --create-namespace 이때 특정 ns(external-secrets)에 pod가 여러개가 생성이되고 해당 문서에서 처럼 workload identity를 사용하여 gcp인증을 진행해야된다.
+특정 서비스 어카운트를 생성하고 해당 어카운트에 workload identity user와 secret manager 엑세스 권한을 넣어주는것을 opentofu로 진행을 했다.</description>
     </item>
   </channel>
 </rss>
