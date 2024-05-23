@@ -1,24 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Abouts on Ben Park</title>
-    <link>https://bumwoopark.github.io/about/</link>
+    <link>https://gobenpark.github.io/about/</link>
     <description>Recent content in Abouts on Ben Park</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2018–2019, BumwooPark; all rights reserved.</copyright>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018–2024, BumwooPark; all rights reserved.</copyright>
     <lastBuildDate>Fri, 08 Mar 2019 17:13:46 +0900</lastBuildDate>
-    
-	<atom:link href="https://bumwoopark.github.io/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://gobenpark.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bumwoo Park</title>
-      <link>https://bumwoopark.github.io/about/about/</link>
+      <link>https://gobenpark.github.io/about/about/</link>
       <pubDate>Fri, 08 Mar 2019 17:13:46 +0900</pubDate>
-      
-      <guid>https://bumwoopark.github.io/about/about/</guid>
-      <description>Park Bum Woo GitHub  https://github.com/BumwooPark  Email  bw.park0813@gmail.com  Website  BumwooPark.github.io  Phone  +82 10-5141-6906  Summary Skills  Languages  Swift Python Shell Golang  Mobile Development  ios  Frameworks  Echo(Golang) Kubernetes Docker Swarm Nginx Redis Tensorflow  Databases  Mariadb   Education  2010 - 2016 Soonchunhyang University, Department of Software Engineering  Career 2017.02 ~ - XIILAB: Software Engineer</description>
+      <guid>https://gobenpark.github.io/about/about/</guid>
+      <description>Park Bum Woo GitHub https://github.com/BumwooPark Email bw.park0813@gmail.com Website BumwooPark.github.io Phone +82 10-5141-6906 Summary Skills Languages Swift
+Python
+Shell
+Golang
+Mobile Development ios
+Frameworks Echo(Golang)
+Kubernetes
+Docker
+Swarm
+Nginx
+Redis
+Tensorflow
+Databases Mariadb
+Education 2010 - 2016 Soonchunhyang University, Department of Software Engineering Career 2017.02 ~
+XIILAB: Software Engineer 2016.09 ~ 2016.12
+BlueCore Software Engineer(Intern) </description>
     </item>
-    
   </channel>
 </rss>

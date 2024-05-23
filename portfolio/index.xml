@@ -1,26 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portfolios on Ben Park</title>
-    <link>https://bumwoopark.github.io/portfolio/</link>
+    <link>https://gobenpark.github.io/portfolio/</link>
     <description>Recent content in Portfolios on Ben Park</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2018–2019, BumwooPark; all rights reserved.</copyright>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018–2024, BumwooPark; all rights reserved.</copyright>
     <lastBuildDate>Sat, 09 Mar 2019 15:35:03 +0900</lastBuildDate>
-    
-	<atom:link href="https://bumwoopark.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://gobenpark.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>portfolio</title>
-      <link>https://bumwoopark.github.io/portfolio/portfolio/</link>
+      <link>https://gobenpark.github.io/portfolio/portfolio/</link>
       <pubDate>Sat, 09 Mar 2019 15:35:03 +0900</pubDate>
-      
-      <guid>https://bumwoopark.github.io/portfolio/portfolio/</guid>
+      <guid>https://gobenpark.github.io/portfolio/portfolio/</guid>
       <description>- Sumwhere https://www.sumwhere.kr
 https://github.com/BumwooPark/Sumwhere_Public
- 개인적인 기획 아이템을 기반으로 아주대학교 창업지원센터 지원을 받아 아주대 학생들과 혼자 여행하는 사람들을 위한 서비스를 제작 IOS및 RxSwift를 사용하여 클라이언트를 제작 Echo프레임웍을 메인으로 하여 서버를 구성 Mariadb및 redis와 운영을 위해서 fluentd elk 로그수집을 적용 TDD기반 golang 코드 Github, travis ci 배포 파이프라인 구축  사용 기술 및 Frameworks IOS  Swift RxSwift Alamofire Snapkit 기타 오픈소스  Server  Echo Kubernetes Docker Golang NFS Dynamic Claim Fluentd Mariadb Redis Rabbitmq  - 치즈카운터 보상형 설문서비스</description>
+개인적인 기획 아이템을 기반으로 아주대학교 창업지원센터 지원을 받아 아주대 학생들과 혼자 여행하는 사람들을 위한 서비스를 제작 IOS및 RxSwift를 사용하여 클라이언트를 제작 Echo프레임웍을 메인으로 하여 서버를 구성 Mariadb및 redis와 운영을 위해서 fluentd elk 로그수집을 적용 TDD기반 golang 코드 Github, travis ci 배포 파이프라인 구축 사용 기술 및 Frameworks IOS Swift RxSwift Alamofire Snapkit 기타 오픈소스 Server Echo Kubernetes Docker Golang NFS Dynamic Claim Fluentd Mariadb Redis Rabbitmq - 치즈카운터 보상형 설문서비스</description>
     </item>
-    
   </channel>
 </rss>
