@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Golangs on Ben Park</title>
+    <link>https://gobenpark.github.io/golang/</link>
+    <description>Recent content in Golangs on Ben Park</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018–2024, BumwooPark; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 27 May 2019 17:21:17 +0900</lastBuildDate>
+    <atom:link href="https://gobenpark.github.io/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>slack bot</title>
+      <link>https://gobenpark.github.io/golang/chatbot/</link>
+      <pubDate>Mon, 27 May 2019 17:21:17 +0900</pubDate>
+      <guid>https://gobenpark.github.io/golang/chatbot/</guid>
+      <description>슬랙 쳇봇 제작 회사가 이사를 한후에 점심메뉴 및 점심을 어디서 먹을 것인지 고민을 하기 시작했었습니다. 그래서 하나 챗봇을 만들어 고민하지 않아도 되도록 해보는게 어떠할까라는 생각을 하게 되었고 주말에 짬을 내어 챗봇을 만들어 보자는 생각으로 진행을 했었습니다
+회사 게시판에 이사님께서 올려두신 맛집 리스트를 데이터 베이스로 삼아 google 스프레드 시트에 모두 옮겨 담아 놓고 google 스프레드시트 api를 통해서 데이터를 가져오는 것으로 간단하게 생각을 하고 다음으로는 언어는 python,golang중 주로쓰는 golang을 결국 선택을 하게 되었습니다.</description>
+    </item>
+  </channel>
+</rss>
