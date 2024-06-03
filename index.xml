@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <copyright>Copyright © 2018–2024, BumwooPark; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 May 2024 17:10:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 13:56:46 +0900</lastBuildDate>
     <atom:link href="https://gobenpark.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gitops</title>
+      <link>https://gobenpark.github.io/blog/gitops/</link>
+      <pubDate>Mon, 03 Jun 2024 13:56:46 +0900</pubDate>
+      <guid>https://gobenpark.github.io/blog/gitops/</guid>
+      <description>gitops + github action + artifact registry 해당 글은 gitops와 github action 을 통해 gcp 의 artifact registry에 Push를 위한 방법을 기록하기 위한 글입니다.
+추후 기록을 위해서 tofu 코드를 통해 모든 것을 작성
+google workload identity pool을 생성 resource &amp;#34;google_iam_workload_identity_pool&amp;#34; &amp;#34;wi_pool&amp;#34; { provider = google disabled = false display_name = &amp;#34;GitHub Actions Pool&amp;#34; project = var.project_id workload_identity_pool_id = &amp;#34;github&amp;#34; lifecycle { ignore_changes = [ project, // project 변경을 무시하도록 설정 ] } } oidc인증을 위한 github provider 생성을 진행한다 resource &amp;#34;google_iam_workload_identity_pool_provider&amp;#34; &amp;#34;oidc_provider&amp;#34; { provider = google project = var.</description>
+    </item>
     <item>
       <title>external secret 설치후기</title>
       <link>https://gobenpark.github.io/blog/secret/</link>
