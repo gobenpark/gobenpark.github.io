@@ -56,24 +56,43 @@ https://github.com/BumwooPark/Sumwhere_Public
 큰회사에 면접을 본경험이 거의 없기에 긴장을 많이 했다. 면접장에는 3분의 면접관이 계셨고 자리에 앉았다.</description>
     </item>
     <item>
-      <title>Bumwoo Park</title>
+      <title>BenPark</title>
       <link>https://gobenpark.github.io/about/about/</link>
       <pubDate>Fri, 08 Mar 2019 17:13:46 +0900</pubDate>
       <guid>https://gobenpark.github.io/about/about/</guid>
-      <description>Park Bum Woo GitHub https://github.com/BumwooPark Email bw.park0813@gmail.com Website BumwooPark.github.io Phone +82 10-5141-6906 Summary Skills Languages Swift
-Python
+      <description>Benpark GitHub https://github.com/gobenpark Email qjadn0914@naver.com Website gobenpark.github.io Summary Skills Languages Python
 Shell
 Golang
-Mobile Development ios
-Frameworks Echo(Golang)
+Rust
+Keyword Echo(Golang)
+Gin(Golang)
 Kubernetes
 Docker
 Swarm
 Nginx
 Redis
 Tensorflow
+Helm
+ArgoCD
+ArgoRollouts
+GRPC
+Protobuf
+GCP
+PubSub
+BigQuery
+BigTable
+Spanner
+CloudStorage
+ElasticSearch
+Kibana
+OpenTelemetry
+Jaeger
+Prometheus
+Grafana
+LangChain
 Databases Mariadb
-Education 2010 - 2016 Soonchunhyang University, Department of Software Engineering Career 2017.02 ~
+Education 2010 - 2016 Soonchunhyang University, Department of Software Engineering Career 2019.09 ~
+Swit: Backend Engineer 2017.02 ~ 2019.08
 XIILAB: Software Engineer 2016.09 ~ 2016.12
 BlueCore Software Engineer(Intern) </description>
     </item>
