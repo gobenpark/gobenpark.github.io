@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Ben Park</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://gobenpark.github.io/blog/</link>
     <description>Recent content in Blogs on Ben Park</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <copyright>Copyright © 2018–2024, BumwooPark; all rights reserved.</copyright>
     <lastBuildDate>Mon, 03 Jun 2024 13:56:46 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gobenpark.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gitops</title>
-      <link>http://localhost:1313/blog/gitops/</link>
+      <link>https://gobenpark.github.io/blog/gitops/</link>
       <pubDate>Mon, 03 Jun 2024 13:56:46 +0900</pubDate>
-      <guid>http://localhost:1313/blog/gitops/</guid>
+      <guid>https://gobenpark.github.io/blog/gitops/</guid>
       <description>gitops + github action + artifact registry 해당 글은 gitops와 github action 을 통해 gcp 의 artifact registry에 Push를 위한 방법을 기록하기 위한 글입니다.
 추후 기록을 위해서 tofu 코드를 통해 모든 것을 작성
 google workload identity pool을 생성 resource &amp;#34;google_iam_workload_identity_pool&amp;#34; &amp;#34;wi_pool&amp;#34; { provider = google disabled = false display_name = &amp;#34;GitHub Actions Pool&amp;#34; project = var.project_id workload_identity_pool_id = &amp;#34;github&amp;#34; lifecycle { ignore_changes = [ project, // project 변경을 무시하도록 설정 ] } } oidc인증을 위한 github provider 생성을 진행한다 resource &amp;#34;google_iam_workload_identity_pool_provider&amp;#34; &amp;#34;oidc_provider&amp;#34; { provider = google project = var.</description>
     </item>
     <item>
       <title>external secret 설치후기</title>
-      <link>http://localhost:1313/blog/secret/</link>
+      <link>https://gobenpark.github.io/blog/secret/</link>
       <pubDate>Thu, 23 May 2024 17:10:06 +0900</pubDate>
-      <guid>http://localhost:1313/blog/secret/</guid>
+      <guid>https://gobenpark.github.io/blog/secret/</guid>
       <description>회사의 특정 GCP 프로젝트가 삭제되고 staging 환경에서 새로 argocd rollouts,linkerd, external secret operator등을 설치를 하려고한다.
 개발환경에서 환경구축을 할 때 손수 매뉴얼하게 진행을 했었는데 이번에는 openTofu를 사용해서 진행을 해보았다
 helm을 이용해서 external-secret operator를 설치
