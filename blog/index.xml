@@ -7,8 +7,20 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <copyright>Copyright © 2018–2024, BumwooPark; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jun 2024 13:56:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 17:20:23 +0900</lastBuildDate>
     <atom:link href="https://gobenpark.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>최근의 상황</title>
+      <link>https://gobenpark.github.io/blog/current/</link>
+      <pubDate>Sat, 29 Jun 2024 17:20:23 +0900</pubDate>
+      <guid>https://gobenpark.github.io/blog/current/</guid>
+      <description>개발자에 대한 생각 최근에 다니던 직장의 이슈로 인해 대규모 퇴사가 발생을 했었다.
+좋게지내던 동료들과 헤어지고 어쩌다보니 선택적으로 남게 되었는데 이런 상황에서 여러가지 글들도 보고 생각을 하는 시간이 되었다
+기존에는 일정수준의 답답함, 참을만한 답답함을 가지고 있었다면 점점 심해지는 느낌이 들어 여러가지 고민을 하게 되었다
+이런 상황에서 개발자로서의 삶에 대해 생각을 해보게 되었는데 앞으로의 나의 방향을 어디로 갈것인가에 대한 초점이 주를 이루었고
+생각들을 정리해 보고자 한다.
+현상황의 문제점 및 나의 문제점을 본다면 사실 나도 물론 잘하지 뛰어난 개발자는 아니지만 나의 fit에 맞지 않는 어쩌면 맞춰왔던 부분이 답답함으로 오고 있는거로 생각이 되는데</description>
+    </item>
     <item>
       <title>Gitops</title>
       <link>https://gobenpark.github.io/blog/gitops/</link>
