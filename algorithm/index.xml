@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Algorithms on Ben Park</title>
+    <link>https://gobenpark.github.io/algorithm/</link>
+    <description>Recent content in Algorithms on Ben Park</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018–2024, BumwooPark; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 19 Jul 2024 17:30:48 +0900</lastBuildDate>
+    <atom:link href="https://gobenpark.github.io/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greedy</title>
+      <link>https://gobenpark.github.io/algorithm/greedy/</link>
+      <pubDate>Fri, 19 Jul 2024 17:30:48 +0900</pubDate>
+      <guid>https://gobenpark.github.io/algorithm/greedy/</guid>
+      <description>Greedy 알고리즘 탐욕알고리즘,
+탐욕 알고리즘은 최적해를 구하는 데 사용되는 근시안적인 방법이다.
+당장 최적인 답을 선택을해서 적합한 결과를 뽑아내야하는데 순간선택에 대해서는 최적이지만 종합적으로 봤을경우
+최적이라는 보장이 절대 없다는것.
+leetcode의 캔디 문제를 보면 다음과같다
+각 child는 적어도 1개의 캔디를 가지고 있어야한다. 높은 점수를 가진 child는 옆의 child보다 많은 캔디를 가져야한다. input = [1,0,2] Output = 5
+해당 부분에서 최적의 조건은 2,1,2이다 총 5개의 캔디가 필요한것으로 코드를 한번 작성해 보면 다음과같다.
+func candy(rating []int) int { candies = make([]int, len(rating)) // 1로 캔디를 초기화해준다.</description>
+    </item>
+  </channel>
+</rss>
